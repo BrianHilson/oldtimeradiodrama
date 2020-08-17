@@ -1,0 +1,190 @@
+/****************************************
+*
+* Reset 
+* https://www.bram.us/2019/10/04/a-modern-css-reset/
+*
+****************************************/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;  
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.4;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/****************************************
+* Custom styles
+****************************************/
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: calc(14px + (16 - 14) * (100vw - 320px) / (1200 - 320));
+  color: #333;
+  background-color: #fff;
+}
+
+@media (min-width: 850px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+h1 {
+  font: normal 4rem/4rem 'Oswald', sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: -0.1rem;
+}
+
+h2 {
+  font: normal 2rem/2.4rem 'Oswald', sans-serif;
+  margin-bottom: 1rem;
+}
+
+p {
+  font: normal 1rem/1.3rem 'Open Sans', sans-serif;
+  margin-bottom: 1rem;
+}
+
+main {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+  display: grid;
+  grid-gap: 1rem;
+}
+
+@media (min-width: 600px) {
+  main {
+    padding: 3rem;
+    grid-gap: 3rem;
+  }
+}
+
+.episodes {
+  display: grid;
+  grid-gap: 2rem;
+}
+
+@media (min-width: 1200px) {
+  .episodes {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.introduction {
+  display: grid;
+  grid-gap: 2rem;
+}
+
+@media (min-width: 1200px) {
+  .introduction {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+blockquote {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid #ccc;
+}
+
+.episodes table {
+  width: 100%;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+}
+
+.episodes th {
+  text-align: left;
+}
+
+.episodes audio {
+  width: 100%;
+}
+
+.episode {
+  border: 1px solid #b9b9b9;
+  padding: 1rem;
+}
+
+.info tr:nth-child(even) {
+  background-color: rgba(0,0,0,.05);
+  border-top: 1px solid rgba(0,0,0,.15);
+  border-bottom: 1px solid rgba(0,0,0,.15);
+}
+
+info tr:nth-child(odd) {
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+}
+
+.info tr:not(:first-child):hover {
+  cursor: pointer;
+  outline: 2px solid #1b86e4;
+}
+
+.info td,
+.info th {
+  padding: .3rem .4rem;
+}
+
+.currently-playing {
+  outline: 2px solid #89c8ff;
+}
