@@ -204,37 +204,37 @@
     ]
   },
   "2020-08-16T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
+    "shows": [
+        {
+            "title": "Gunsmoke",
+            "broadcastDate": "1952-08-16",
+            "sourceFile": "https://ia800304.us.archive.org/20/items/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-16%20%28017%29%20The%20Lynching.mp3"
+        },
+        {
+          "title" : "Jack Benny",
+          "broadcastDate" : "1934-08-24",
+          "sourceFile" : "https://ia800302.us.archive.org/10/items/JackBenny1/Jb1934-08-24TheHouseOfRothchild.mp3"
+        },
+        {
+          "title" : "The Great Gildersleeve",
+          "broadcastDate" : "1952-08-27",
+          "sourceFile" : "https://ia801308.us.archive.org/4/items/Otrr_The_Great_Gildersleeve_Singles/The%20Great%20Gildersleeve%2052-08-27%20%28461%29%20Cousin%20Emily%20Comes%20for%20a%20Visit.mp3"
+        },
+        {
+          "title" : "Dragnet",
+          "broadcastDate" : "1951-07-26",
+          "sourceFile" : "https://ia802205.us.archive.org/35/items/Dragnet2/Dragnet_51-07-26_111_The_Big_Late_Script.mp3"
+        },
+        {
+          "title" : "X Minus One",
+          "broadcastDate" : "1955-08-18",
+          "sourceFile" : "https://ia802608.us.archive.org/15/items/OTRR_X_Minus_One_Singles/XMinusOne55-08-18014Courtesy.mp3"
+        },
+        {
+          "title" : "Suspense",
+          "broadcastDate" : "1947-08-14",
+          "sourceFile" : "https://ia601302.us.archive.org/16/items/OTRR_Suspense_Singles_By_Year_1947/Suspense%20470814%20258%20Smiley%20%2864-44%29%2015058%2030m45s.mp3"
+        }
       ]
   },
   "2020-08-22T19:00:00-06:00": {
