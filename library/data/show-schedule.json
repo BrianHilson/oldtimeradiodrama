@@ -238,3335 +238,359 @@
       ]
   },
   "2020-08-22T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+    "shows": [
+        {
+            "title": "Have Gun, Will Travel",
+            "broadcastDate": "1959-08-23",
+            "sourceFile": "https://ia800306.us.archive.org/26/items/HaveGunWillTravel_543/Hgwt1959-08-23040Bonanza.mp3"
+        },
+        {
+            "title": "Father Knows Best",
+            "broadcastDate": "1950-07-06",
+            "sourceFile": "https://ia800705.us.archive.org/27/items/Father_Knows_Best/fkwb.1950.07.06_Vacation_Arrives.mp3"
+        },
+        {
+            "title": "Richard Diamond",
+            "broadcastDate": "1949-06-19",
+            "sourceFile": "https://ia800205.us.archive.org/17/items/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-06-19%20%28009%29%20Fred%20Sears%20Murder%20Case.mp3"
+        },
+        {
+            "title": "Our Miss Brooks",
+            "broadcastDate": "1946-04-09",
+            "sourceFile": "https://ia800204.us.archive.org/13/items/Our_Miss_Brooks_190_Episodes/Our_Miss_Brooks_480409_000_Audition_Shirley_Booth.mp3"
+        },
+        {
+            "title": "Dimension X",
+            "broadcastDate": "1950-08-11",
+            "sourceFile": "https://ia802508.us.archive.org/31/items/OTRR_Dimension_X_Singles/Dimension_X_1950-08-18__20_TheMartianChronicals.mp3"
+        },
+        {
+            "title": "The Inner Sanctum",
+            "broadcastDate": "1941-12-07",
+            "sourceFile": "https://ia800700.us.archive.org/29/items/OTRR_Inner_Sanctum_Mysteries_Singles/Inner%20Sanctum%20%2041-12-07%20Island%20of%20Death.mp3"
+        }
+    ]
   },
   "2020-08-23T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
+    "shows": [
+        {
+            "title": "Gunsmoke",
+            "broadcastDate": "1952-08-23",
+            "sourceFile": "https://ia800304.us.archive.org/20/items/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-23%20%28018%29%20Shakespeare.mp3"
+        },
+        {
+          "title" : "Jack Benny",
+          "broadcastDate" : "1934-08-31",
+          "sourceFile" : "https://ia800302.us.archive.org/10/items/JackBenny1/Jb1934-08-31HouseOfBenny.mp3"
+        },
+        {
+          "title" : "The Great Gildersleeve",
+          "broadcastDate" : "1952-09-03",
+          "sourceFile" : "https://ia801308.us.archive.org/4/items/Otrr_The_Great_Gildersleeve_Singles/The%20Great%20Gildersleeve%2052-09-03%20%28462%29%20Winning%20Leroy%20Back%20from%20Emily.mp3"
+        },
+        {
+          "title" : "Dragnet",
+          "broadcastDate" : "1951-08-16",
+          "sourceFile" : "https://ia802205.us.archive.org/35/items/Dragnet2/Dragnet_51-08-16_114_The_Big_Winchester.mp3"
+        },
+        {
+          "title" : "X Minus One",
+          "broadcastDate" : "1955-08-18",
+          "sourceFile" : "https://ia802608.us.archive.org/15/items/OTRR_X_Minus_One_Singles/XMinusOne55-08-25015ColdEquations.mp3"
+        },
+        {
+          "title" : "Suspense",
+          "broadcastDate" : "1947-08-21",
+          "sourceFile" : "https://ia601302.us.archive.org/16/items/OTRR_Suspense_Singles_By_Year_1947/Suspense%20470821%20259%20Murder%20Aboard%20the%20Alphabet%20%2864-44%29%2014855%2031m00s.mp3"
+        }
       ]
   },
   "2020-08-29T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-08-30T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-05T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-06T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-12T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-13T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-19T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-20T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-26T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-09-27T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-03T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-04T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-10T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-11T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-17T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-18T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-24T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-25T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-10-31T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-01T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-07T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-08T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-14T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-15T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-21T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-22T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-28T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-11-29T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-05T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-06T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-12T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-13T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-19T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-20T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-26T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2020-12-27T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-02T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-03T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-09T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-10T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-16T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-17T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-23T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-24T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-30T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-01-31T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-06T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-07T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-13T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-14T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-20T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-21T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-27T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-02-28T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-06T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-07T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-13T18:00:00-07:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-14T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-20T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-21T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-27T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-03-28T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-03T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-04T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-10T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-11T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-17T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-18T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-24T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-04-25T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-01T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-02T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-08T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-09T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-15T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-16T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-22T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-23T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-29T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-05-30T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-05T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-06T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-12T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-13T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-19T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-20T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-26T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-06-27T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-03T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-04T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-10T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-11T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-17T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-18T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-24T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   },
   "2021-07-25T19:00:00-06:00": {
-      "shows": [
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          },
-          {
-              "title": "",
-              "broadcastDate": "",
-              "sourceFile": ""
-          }
-      ]
+
   }
 }
