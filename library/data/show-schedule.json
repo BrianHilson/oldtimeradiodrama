@@ -306,10 +306,72 @@
       ]
   },
   "2020-08-29T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Have Gun, Will Travel",
+          "broadcastDate": "1959-08-30",
+          "sourceFile": "https://ia800306.us.archive.org/26/items/HaveGunWillTravel_543/Hgwt1959-08-30041LoveBirds.mp3"
+      },
+      {
+          "title": "Father Knows Best",
+          "broadcastDate": "1950-08-08",
+          "sourceFile": "https://ia800705.us.archive.org/27/items/Father_Knows_Best/fkwb.1950.06.08_Time_for_a_New_Car.mp3"
+      },
+      {
+          "title": "Richard Diamond",
+          "broadcastDate": "1949-08-27",
+          "sourceFile": "https://ia800205.us.archive.org/17/items/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-27%20%28019%29%20The%20Eddie%20Garrett%20Case.mp3"
+      },
+      {
+          "title": "Our Miss Brooks",
+          "broadcastDate": "1948-06-23",
+          "sourceFile": "https://ia800204.us.archive.org/13/items/Our_Miss_Brooks_190_Episodes/Our_Miss_Brooks_480623_000_Audition_Eve_Arden.mp3"
+      },
+      {
+          "title": "Dimension X",
+          "broadcastDate": "1950-08-25",
+          "sourceFile": "https://ia802508.us.archive.org/31/items/OTRR_Dimension_X_Singles/Dimension_X_1950-08-25__21_TheParade.mp3"
+      },
+      {
+          "title": "The Inner Sanctum",
+          "broadcastDate": "1945-08-28",
+          "sourceFile": "https://ia800700.us.archive.org/29/items/OTRR_Inner_Sanctum_Mysteries_Singles/Inner%20Sanctum%20%2045-08-28%20Dead%20Man%27s%20Deal.mp3"
+      }
+  ]
   },
   "2020-08-30T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Gunsmoke",
+          "broadcastDate": "1952-08-30",
+          "sourceFile": "https://ia800304.us.archive.org/20/items/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-30%20%28019%29%20The%20Juniper%20Tree.mp3"
+      },
+      {
+        "title" : "Jack Benny",
+        "broadcastDate" : "1934-07-20",
+        "sourceFile" : "https://ia800302.us.archive.org/10/items/JackBenny1/Jb1934-07-20WhoKilledMrStooge5.mp3"
+      },
+      {
+        "title" : "The Great Gildersleeve",
+        "broadcastDate" : "1952-08-20",
+        "sourceFile" : "https://ia801308.us.archive.org/4/items/Otrr_The_Great_Gildersleeve_Singles/The%20Great%20Gildersleeve%2052-08-20%20%28460%29%20Leroy%27s%20Million%20Dollar%20Laundry.mp3"
+      },
+      {
+        "title" : "Dragnet",
+        "broadcastDate" : "1951-08-23",
+        "sourceFile" : "https://ia802205.us.archive.org/35/items/Dragnet2/Dragnet_51-08-23_115_The_Big_In-Laws.mp3"
+      },
+      {
+        "title" : "X Minus One",
+        "broadcastDate" : "1955-07-21",
+        "sourceFile" : "https://ia802608.us.archive.org/15/items/OTRR_X_Minus_One_Singles/XMinusOne55-07-21010Nightmare.mp3"
+      },
+      {
+        "title" : "Suspense",
+        "broadcastDate" : "1947-08-28",
+        "sourceFile" : "https://ia601302.us.archive.org/16/items/OTRR_Suspense_Singles_By_Year_1947/Suspense%20470828%20260%20Double%20Ugly%20%28128-44%29%2025866%2027m15s.mp3"
+      }
+    ]
   },
   "2020-09-05T19:00:00-06:00": {
 

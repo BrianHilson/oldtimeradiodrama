@@ -29,7 +29,7 @@ class ShowHandler {
         foreach ($episodeData['shows'] as $show) {
           $destFilePath = $showDateAudioFileDir . '/' . basename($show['sourceFile']);
           $mp3File = file_get_contents($show['sourceFile']);
-          sleep(1);
+          sleep(1); // Throttle how fast shows are downloaded for archive.org's benefit
 
           if ($mp3File) {
             file_put_contents($destFilePath, $mp3File);

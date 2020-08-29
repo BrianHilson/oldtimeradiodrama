@@ -13,7 +13,7 @@ $episodes = $showHandler->GetEpisodesToDisplay();
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="LtNSTfeChMHsPaHl1JS5HeWFu14Cz7Njz_oCuM_2rmE" />
-  <meta name="description" content="Enjoy new old time radio drama shows each week, inspired by the long running WPR show">
+  <meta name="description" content="Enjoy new old time radio drama shows each week, inspired by the long running WPR show Old Time Radio Drama. If you liked that show, you'll like this too.">
   <title>Old Time Radio Drama</title>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/library/styles/site.css">
@@ -71,8 +71,6 @@ $episodes = $showHandler->GetEpisodesToDisplay();
 ?>
   </div>
 </main>
-<footer>
-</footer>
 <script>
 
 var EpisodePlayer = (function() {
@@ -113,7 +111,6 @@ var EpisodePlayer = (function() {
 
         ClearCurrentlyPlayingClassFromRows();
         this.classList.add('currently-playing');
-        console.log(this.classList);
       });
     });
   }
@@ -127,6 +124,7 @@ var EpisodePlayer = (function() {
   var ChangeToNextShowWhenOneEnds = function() {
     _audioElement.addEventListener('ended', function() {
       var currentShowIndex = parseInt(this.dataset.playingShowIndex);
+
       if (currentShowIndex < _showRows.length) {
         var newShowIndex = currentShowIndex + 1;
         this.dataset.playingShowIndex = newShowIndex;
@@ -144,6 +142,7 @@ var EpisodePlayer = (function() {
 
 })
 
+// Create player for each episode
 var episodes = document.querySelectorAll('.episode');
 
 episodes.forEach(function(episode) {
