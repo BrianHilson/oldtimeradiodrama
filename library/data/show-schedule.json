@@ -374,16 +374,140 @@
     ]
   },
   "2020-09-05T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Have Gun, Will Travel",
+          "broadcastDate": "1959-09-06",
+          "sourceFile": "https://ia800306.us.archive.org/26/items/HaveGunWillTravel_543/Hgwt1959-09-06042AllThatGlitters.mp3"
+      },
+      {
+          "title": "Father Knows Best",
+          "broadcastDate": "1950-05-11",
+          "sourceFile": "https://ia800705.us.archive.org/27/items/Father_Knows_Best/fkwb.1950.05.11_The_Golf_Challenge.mp3"
+      },
+      {
+          "title": "Richard Diamond",
+          "broadcastDate": "1949-09-03",
+          "sourceFile": "https://ia800205.us.archive.org/17/items/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-03%20%28020%29%20The%20Harry%20Baker%20Case.mp3"
+      },
+      {
+          "title": "Our Miss Brooks",
+          "broadcastDate": "1948-07-19",
+          "sourceFile": "https://ia800204.us.archive.org/13/items/Our_Miss_Brooks_190_Episodes/Our_Miss_Brooks_480719_001_First_Day.mp3"
+      },
+      {
+          "title": "Dimension X",
+          "broadcastDate": "1950-09-01",
+          "sourceFile": "https://ia802508.us.archive.org/31/items/OTRR_Dimension_X_Singles/Dimension_X_1950-09-01__22_TheRoadsMustRoll.mp3"
+      },
+      {
+          "title": "The Inner Sanctum",
+          "broadcastDate": "1945-04-15",
+          "sourceFile": "https://ia800700.us.archive.org/29/items/OTRR_Inner_Sanctum_Mysteries_Singles/Inner%20Sanctum%20%2044-04-15%20The%20Skull%20That%20Walked.mp3"
+      }
+  ]
   },
   "2020-09-06T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Gunsmoke",
+          "broadcastDate": "1952-09-06",
+          "sourceFile": "https://ia800304.us.archive.org/20/items/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-06%20%28020%29%20The%20Brothers.mp3"
+      },
+      {
+        "title" : "Jack Benny",
+        "broadcastDate" : "1934-09-14",
+        "sourceFile" : "https://ia800302.us.archive.org/10/items/JackBenny1/Jb1934-09-14SchoolDaysmuchSkipping.mp3"
+      },
+      {
+        "title" : "The Great Gildersleeve",
+        "broadcastDate" : "1952-08-13",
+        "sourceFile" : "https://ia801308.us.archive.org/4/items/Otrr_The_Great_Gildersleeve_Singles/The%20Great%20Gildersleeve%2052-08-13%20%28459%29%20Gildy%20Goes%20on%20a%20Diet.mp3"
+      },
+      {
+        "title" : "Dragnet",
+        "broadcastDate" : "1951-08-30",
+        "sourceFile" : "https://ia802205.us.archive.org/35/items/Dragnet2/Dragnet_51-08-30_116_The_Big_Crazy.mp3"
+      },
+      {
+        "title" : "X Minus One",
+        "broadcastDate" : "1955-09-01",
+        "sourceFile" : "https://ia802608.us.archive.org/15/items/OTRR_X_Minus_One_Singles/XMinusOne55-09-01016Shanghaied.mp3"
+      },
+      {
+        "title" : "Suspense",
+        "broadcastDate" : "1947-09-04",
+        "sourceFile" : "https://ia601302.us.archive.org/16/items/OTRR_Suspense_Singles_By_Year_1947/Suspense%20470904%20261%20The%20Argyle%20Album%20%28128-44%29%2028386%2029m56s.mp3"
+      }
+    ]
   },
   "2020-09-12T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Have Gun, Will Travel",
+          "broadcastDate": "1959-09-13",
+          "sourceFile": "https://ia800306.us.archive.org/26/items/HaveGunWillTravel_543/Hgwt1959-09-13043TreasureHunt.mp3"
+      },
+      {
+          "title": "Father Knows Best",
+          "broadcastDate": "1950-09-14",
+          "sourceFile": "https://ia800705.us.archive.org/27/items/Father_Knows_Best/fkwb.1950.09.14_Family_Car_Stolen.mp3"
+      },
+      {
+          "title": "Richard Diamond",
+          "broadcastDate": "1949-09-10",
+          "sourceFile": "https://ia800205.us.archive.org/17/items/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-10%20%28021%29%20The%20Van%20Dyke%20Seance%20Case.mp3"
+      },
+      {
+          "title": "Our Miss Brooks",
+          "broadcastDate": "1948-09-19",
+          "sourceFile": "https://ia800204.us.archive.org/13/items/Our_Miss_Brooks_190_Episodes/Our_Miss_Brooks_480919_007_Weekend_At_Crystal_Lake.mp3"
+      },
+      {
+          "title": "Dimension X",
+          "broadcastDate": "1950-09-08",
+          "sourceFile": "https://ia802508.us.archive.org/31/items/OTRR_Dimension_X_Singles/Dimension_X_1950-09-08__23_TheOuterLimit.mp3"
+      },
+      {
+          "title": "The Inner Sanctum",
+          "broadcastDate": "1945-04-22",
+          "sourceFile": "https://ia800700.us.archive.org/29/items/OTRR_Inner_Sanctum_Mysteries_Singles/Inner%20Sanctum%20%2044-04-22%20The%20Melody%20of%20Death.mp3"
+      }
+  ]
   },
   "2020-09-13T19:00:00-06:00": {
-
+    "shows": [
+      {
+          "title": "Gunsmoke",
+          "broadcastDate": "1952-09-13",
+          "sourceFile": "https://ia800304.us.archive.org/20/items/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-13%20%28021%29%20Home%20Surgery.mp3"
+      },
+      {
+        "title" : "Jack Benny",
+        "broadcastDate" : "1934-09-21",
+        "sourceFile" : "https://ia800302.us.archive.org/10/items/JackBenny1/Jb1934-09-21SchoolDays.mp3"
+      },
+      {
+        "title" : "The Great Gildersleeve",
+        "broadcastDate" : "1952-09-10",
+        "sourceFile" : "https://ia801308.us.archive.org/4/items/Otrr_The_Great_Gildersleeve_Singles/The%20Great%20Gildersleeve%2052-09-10%20%28463%29%20Cleaning%20Bullard%27s%20House.mp3"
+      },
+      {
+        "title" : "Dragnet",
+        "broadcastDate" : "1951-09-06",
+        "sourceFile" : "https://ia802205.us.archive.org/35/items/Dragnet2/Dragnet_51-09-06_117_The_Big_17.mp3"
+      },
+      {
+        "title" : "X Minus One",
+        "broadcastDate" : "1955-09-08",
+        "sourceFile" : "https://ia802608.us.archive.org/15/items/OTRR_X_Minus_One_Singles/XMinusOne55-09-08017TheMartianDeathMarch.mp3"
+      },
+      {
+        "title" : "Suspense",
+        "broadcastDate" : "1947-09-11",
+        "sourceFile" : "https://ia601302.us.archive.org/16/items/OTRR_Suspense_Singles_By_Year_1947/Suspense%20470911%20262%20The%20Twist%20%28128-44%29%2028470%2030m01s.mp3"
+      }
+    ]
   },
   "2020-09-19T19:00:00-06:00": {
 
